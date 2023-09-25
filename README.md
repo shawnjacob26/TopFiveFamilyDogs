@@ -1,7 +1,9 @@
 ## Top Five Dog Breeds for Families Looking to Adopt
 For pet-fanatics with children, it is important to choose breeds that are safe for the whole family. This list describes the top five dog breeds that are not just fun, but won't put your little ones in danger.
 
-image here
+![alt text][Familywithdog Image]
+
+[Familywithdog Image]: https://github.com/shawnjacob26/TopFiveFamilyDogs/blob/main/IntroDogs.jpg "Family"
 
 #### 1. Golden Retriever  
 These dogs are easy to train and make a great animal to keep in the household. Golden Retrievers are fun, loving, and work well in different circumstances.
