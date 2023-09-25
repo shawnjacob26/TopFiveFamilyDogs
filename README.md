@@ -10,10 +10,10 @@ These dogs are easy to train and make a great animal to keep in the household. G
 
 ![alt text][GoldenRetriever Image]
 
-[GoldenRetriever Image]: https://shawnjacob26.github.io/TopFiveFamilyDogs/goldenretriever.png "Golden Retriever"
+[GoldenRetriever Image]: https://shawnjacob26.github.io/TopFiveFamilyDogs/goldrenretriever.png "Golden Retriever"
 
 #### 2. Bulldog
-Bulldogs are known for their intense loyalty towards their family, particularly children. They are typically easy to take care of and play well with younger kids
+Bulldogs are known for their intense loyalty towards their family, particularly children. They are typically easy to take care of and play well with younger kids.
 
 ![alt text][Bulldog Image]
 
