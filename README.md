@@ -40,5 +40,8 @@ Similar to the Collie, Pugs are a great fit for an active family. As smaller dog
 
 [Pug Image]: https://shawnjacob26.github.io/TopFiveFamilyDogs/pug.png "Pug"
 
-#### No matter which breed you may choose, a dog can only bring a little more happiness into you and your family's life!
+## No matter which breed you may choose, a dog can only bring more happiness into you and your family's life!
+
+## Adopt a dog now at (https://www.petfinder.com/)
+
 
