@@ -3,7 +3,7 @@ For pet-fanatics with children, it is important to choose breeds that are safe f
 
 ![alt text][Familywithdog Image]
 
-[Familywithdog Image]: https://github.com/shawnjacob26/TopFiveFamilyDogs/blob/main/IntroDogs.jpg "Family"
+[Familywithdog Image]: https://shawnjacob26.github.io/TopFiveFamilyDogs/IntroDogs.jpg "Family"
 
 #### 1. Golden Retriever  
 These dogs are easy to train and make a great animal to keep in the household. Golden Retrievers are fun, loving, and work well in different circumstances.
